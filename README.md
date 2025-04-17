@@ -11,8 +11,8 @@ This SQL project analyzes how the Canadian fuel market is affected by global exc
 |---------------------|-----------------------------------------------------------|
 | `data/`             | Cleaned datasets used in the project                      |
 | `sql/SQL_Code.sql`  | Full SQL script: table creation, views, analysis queries  |
-| `screenshots/`      | Query results and data previews for visual reference      |
-| `docs/final_report.md` | Portfolio-style writeup with business interpretations |
+| `screenshots/`      | Query results for visual reference                        |
+| `Project.pptx`      | Project presentation                                      |
 | `README.md`         | You’re here — overview of the project                     |
 
 ---
